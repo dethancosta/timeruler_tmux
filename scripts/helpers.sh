@@ -1,4 +1,4 @@
-#!/usr/bin/env bash
+#!/usr/bin/env zsh
 
 # yanked from https://github.com/xamut/tmux-weather/blob/master/scripts/helpers.sh
 
